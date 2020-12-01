@@ -9,7 +9,7 @@ void delay(uint z)						 //zºÁÃëÑÓÊ±
 	for(x=z;x>0;x--)
 		for(y=110;y>0;y--);
 }
-cs
+
 void main()
 {
 	int i;
